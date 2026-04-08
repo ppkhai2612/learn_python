@@ -1,0 +1,5 @@
+# Pathlib
+
+This module offers classes representing filesystem paths with semantics appropriate for different operating systems
+
+Path classes are divided between **pure paths**, which provide purely computational operations without I/O, and **concrete paths**, which inherit from pure paths but also provide I/O operations
