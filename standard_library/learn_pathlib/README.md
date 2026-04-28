@@ -1,4 +1,4 @@
-# Pathlib
+# pathlib - Object-oriented filesystem paths
 
 This module offers classes representing filesystem paths with semantics appropriate for different operating systems
 

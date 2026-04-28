@@ -1,4 +1,4 @@
-# Datetime
+# datetime - Basic date and time types
 
 This module supplies classes for manipulating dates and times. For example, date/time arithmetic or attribute extraction for output formatting and manipulation
 
